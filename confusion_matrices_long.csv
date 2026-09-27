@@ -1,0 +1,246 @@
+Model,True,Predicted,Count
+LogisticRegression,Apple,Apple,246
+LogisticRegression,Apple,Hourglass,0
+LogisticRegression,Apple,Inverted Triangle,7
+LogisticRegression,Apple,Long Torso,9
+LogisticRegression,Apple,Pear,4
+LogisticRegression,Apple,Rectangle,0
+LogisticRegression,Apple,Short Torso,2
+LogisticRegression,Hourglass,Apple,0
+LogisticRegression,Hourglass,Hourglass,122
+LogisticRegression,Hourglass,Inverted Triangle,1
+LogisticRegression,Hourglass,Long Torso,2
+LogisticRegression,Hourglass,Pear,13
+LogisticRegression,Hourglass,Rectangle,0
+LogisticRegression,Hourglass,Short Torso,3
+LogisticRegression,Inverted Triangle,Apple,5
+LogisticRegression,Inverted Triangle,Hourglass,3
+LogisticRegression,Inverted Triangle,Inverted Triangle,361
+LogisticRegression,Inverted Triangle,Long Torso,0
+LogisticRegression,Inverted Triangle,Pear,0
+LogisticRegression,Inverted Triangle,Rectangle,0
+LogisticRegression,Inverted Triangle,Short Torso,0
+LogisticRegression,Long Torso,Apple,0
+LogisticRegression,Long Torso,Hourglass,1
+LogisticRegression,Long Torso,Inverted Triangle,1
+LogisticRegression,Long Torso,Long Torso,20
+LogisticRegression,Long Torso,Pear,4
+LogisticRegression,Long Torso,Rectangle,5
+LogisticRegression,Long Torso,Short Torso,0
+LogisticRegression,Pear,Apple,15
+LogisticRegression,Pear,Hourglass,6
+LogisticRegression,Pear,Inverted Triangle,0
+LogisticRegression,Pear,Long Torso,2
+LogisticRegression,Pear,Pear,281
+LogisticRegression,Pear,Rectangle,0
+LogisticRegression,Pear,Short Torso,3
+LogisticRegression,Rectangle,Apple,6
+LogisticRegression,Rectangle,Hourglass,8
+LogisticRegression,Rectangle,Inverted Triangle,7
+LogisticRegression,Rectangle,Long Torso,0
+LogisticRegression,Rectangle,Pear,5
+LogisticRegression,Rectangle,Rectangle,27
+LogisticRegression,Rectangle,Short Torso,0
+LogisticRegression,Short Torso,Apple,0
+LogisticRegression,Short Torso,Hourglass,2
+LogisticRegression,Short Torso,Inverted Triangle,2
+LogisticRegression,Short Torso,Long Torso,0
+LogisticRegression,Short Torso,Pear,4
+LogisticRegression,Short Torso,Rectangle,3
+LogisticRegression,Short Torso,Short Torso,34
+RandomForest,Apple,Apple,263
+RandomForest,Apple,Hourglass,0
+RandomForest,Apple,Inverted Triangle,5
+RandomForest,Apple,Long Torso,0
+RandomForest,Apple,Pear,0
+RandomForest,Apple,Rectangle,0
+RandomForest,Apple,Short Torso,0
+RandomForest,Hourglass,Apple,0
+RandomForest,Hourglass,Hourglass,125
+RandomForest,Hourglass,Inverted Triangle,5
+RandomForest,Hourglass,Long Torso,0
+RandomForest,Hourglass,Pear,11
+RandomForest,Hourglass,Rectangle,0
+RandomForest,Hourglass,Short Torso,0
+RandomForest,Inverted Triangle,Apple,15
+RandomForest,Inverted Triangle,Hourglass,4
+RandomForest,Inverted Triangle,Inverted Triangle,344
+RandomForest,Inverted Triangle,Long Torso,5
+RandomForest,Inverted Triangle,Pear,0
+RandomForest,Inverted Triangle,Rectangle,1
+RandomForest,Inverted Triangle,Short Torso,0
+RandomForest,Long Torso,Apple,0
+RandomForest,Long Torso,Hourglass,0
+RandomForest,Long Torso,Inverted Triangle,0
+RandomForest,Long Torso,Long Torso,28
+RandomForest,Long Torso,Pear,3
+RandomForest,Long Torso,Rectangle,0
+RandomForest,Long Torso,Short Torso,0
+RandomForest,Pear,Apple,1
+RandomForest,Pear,Hourglass,15
+RandomForest,Pear,Inverted Triangle,0
+RandomForest,Pear,Long Torso,0
+RandomForest,Pear,Pear,289
+RandomForest,Pear,Rectangle,2
+RandomForest,Pear,Short Torso,0
+RandomForest,Rectangle,Apple,0
+RandomForest,Rectangle,Hourglass,0
+RandomForest,Rectangle,Inverted Triangle,3
+RandomForest,Rectangle,Long Torso,0
+RandomForest,Rectangle,Pear,1
+RandomForest,Rectangle,Rectangle,49
+RandomForest,Rectangle,Short Torso,0
+RandomForest,Short Torso,Apple,1
+RandomForest,Short Torso,Hourglass,0
+RandomForest,Short Torso,Inverted Triangle,1
+RandomForest,Short Torso,Long Torso,0
+RandomForest,Short Torso,Pear,2
+RandomForest,Short Torso,Rectangle,0
+RandomForest,Short Torso,Short Torso,41
+XGBoost,Apple,Apple,264
+XGBoost,Apple,Hourglass,0
+XGBoost,Apple,Inverted Triangle,4
+XGBoost,Apple,Long Torso,0
+XGBoost,Apple,Pear,0
+XGBoost,Apple,Rectangle,0
+XGBoost,Apple,Short Torso,0
+XGBoost,Hourglass,Apple,0
+XGBoost,Hourglass,Hourglass,133
+XGBoost,Hourglass,Inverted Triangle,5
+XGBoost,Hourglass,Long Torso,0
+XGBoost,Hourglass,Pear,3
+XGBoost,Hourglass,Rectangle,0
+XGBoost,Hourglass,Short Torso,0
+XGBoost,Inverted Triangle,Apple,7
+XGBoost,Inverted Triangle,Hourglass,5
+XGBoost,Inverted Triangle,Inverted Triangle,353
+XGBoost,Inverted Triangle,Long Torso,2
+XGBoost,Inverted Triangle,Pear,0
+XGBoost,Inverted Triangle,Rectangle,1
+XGBoost,Inverted Triangle,Short Torso,1
+XGBoost,Long Torso,Apple,0
+XGBoost,Long Torso,Hourglass,0
+XGBoost,Long Torso,Inverted Triangle,0
+XGBoost,Long Torso,Long Torso,28
+XGBoost,Long Torso,Pear,3
+XGBoost,Long Torso,Rectangle,0
+XGBoost,Long Torso,Short Torso,0
+XGBoost,Pear,Apple,0
+XGBoost,Pear,Hourglass,10
+XGBoost,Pear,Inverted Triangle,0
+XGBoost,Pear,Long Torso,1
+XGBoost,Pear,Pear,293
+XGBoost,Pear,Rectangle,2
+XGBoost,Pear,Short Torso,1
+XGBoost,Rectangle,Apple,0
+XGBoost,Rectangle,Hourglass,0
+XGBoost,Rectangle,Inverted Triangle,2
+XGBoost,Rectangle,Long Torso,0
+XGBoost,Rectangle,Pear,2
+XGBoost,Rectangle,Rectangle,49
+XGBoost,Rectangle,Short Torso,0
+XGBoost,Short Torso,Apple,1
+XGBoost,Short Torso,Hourglass,0
+XGBoost,Short Torso,Inverted Triangle,2
+XGBoost,Short Torso,Long Torso,0
+XGBoost,Short Torso,Pear,1
+XGBoost,Short Torso,Rectangle,0
+XGBoost,Short Torso,Short Torso,41
+SVM,Apple,Apple,260
+SVM,Apple,Hourglass,0
+SVM,Apple,Inverted Triangle,5
+SVM,Apple,Long Torso,0
+SVM,Apple,Pear,1
+SVM,Apple,Rectangle,1
+SVM,Apple,Short Torso,1
+SVM,Hourglass,Apple,0
+SVM,Hourglass,Hourglass,132
+SVM,Hourglass,Inverted Triangle,1
+SVM,Hourglass,Long Torso,0
+SVM,Hourglass,Pear,6
+SVM,Hourglass,Rectangle,0
+SVM,Hourglass,Short Torso,2
+SVM,Inverted Triangle,Apple,4
+SVM,Inverted Triangle,Hourglass,3
+SVM,Inverted Triangle,Inverted Triangle,358
+SVM,Inverted Triangle,Long Torso,3
+SVM,Inverted Triangle,Pear,0
+SVM,Inverted Triangle,Rectangle,0
+SVM,Inverted Triangle,Short Torso,1
+SVM,Long Torso,Apple,0
+SVM,Long Torso,Hourglass,0
+SVM,Long Torso,Inverted Triangle,0
+SVM,Long Torso,Long Torso,30
+SVM,Long Torso,Pear,1
+SVM,Long Torso,Rectangle,0
+SVM,Long Torso,Short Torso,0
+SVM,Pear,Apple,1
+SVM,Pear,Hourglass,5
+SVM,Pear,Inverted Triangle,0
+SVM,Pear,Long Torso,1
+SVM,Pear,Pear,298
+SVM,Pear,Rectangle,2
+SVM,Pear,Short Torso,0
+SVM,Rectangle,Apple,0
+SVM,Rectangle,Hourglass,0
+SVM,Rectangle,Inverted Triangle,2
+SVM,Rectangle,Long Torso,1
+SVM,Rectangle,Pear,0
+SVM,Rectangle,Rectangle,49
+SVM,Rectangle,Short Torso,1
+SVM,Short Torso,Apple,1
+SVM,Short Torso,Hourglass,1
+SVM,Short Torso,Inverted Triangle,0
+SVM,Short Torso,Long Torso,0
+SVM,Short Torso,Pear,1
+SVM,Short Torso,Rectangle,0
+SVM,Short Torso,Short Torso,42
+KNN,Apple,Apple,253
+KNN,Apple,Hourglass,0
+KNN,Apple,Inverted Triangle,9
+KNN,Apple,Long Torso,1
+KNN,Apple,Pear,3
+KNN,Apple,Rectangle,1
+KNN,Apple,Short Torso,1
+KNN,Hourglass,Apple,0
+KNN,Hourglass,Hourglass,113
+KNN,Hourglass,Inverted Triangle,13
+KNN,Hourglass,Long Torso,2
+KNN,Hourglass,Pear,11
+KNN,Hourglass,Rectangle,1
+KNN,Hourglass,Short Torso,1
+KNN,Inverted Triangle,Apple,29
+KNN,Inverted Triangle,Hourglass,15
+KNN,Inverted Triangle,Inverted Triangle,313
+KNN,Inverted Triangle,Long Torso,6
+KNN,Inverted Triangle,Pear,0
+KNN,Inverted Triangle,Rectangle,4
+KNN,Inverted Triangle,Short Torso,2
+KNN,Long Torso,Apple,1
+KNN,Long Torso,Hourglass,0
+KNN,Long Torso,Inverted Triangle,1
+KNN,Long Torso,Long Torso,28
+KNN,Long Torso,Pear,1
+KNN,Long Torso,Rectangle,0
+KNN,Long Torso,Short Torso,0
+KNN,Pear,Apple,13
+KNN,Pear,Hourglass,31
+KNN,Pear,Inverted Triangle,3
+KNN,Pear,Long Torso,7
+KNN,Pear,Pear,244
+KNN,Pear,Rectangle,4
+KNN,Pear,Short Torso,5
+KNN,Rectangle,Apple,0
+KNN,Rectangle,Hourglass,2
+KNN,Rectangle,Inverted Triangle,3
+KNN,Rectangle,Long Torso,2
+KNN,Rectangle,Pear,7
+KNN,Rectangle,Rectangle,39
+KNN,Rectangle,Short Torso,0
+KNN,Short Torso,Apple,0
+KNN,Short Torso,Hourglass,1
+KNN,Short Torso,Inverted Triangle,4
+KNN,Short Torso,Long Torso,0
+KNN,Short Torso,Pear,2
+KNN,Short Torso,Rectangle,0
+KNN,Short Torso,Short Torso,38
