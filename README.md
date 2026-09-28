@@ -4,7 +4,7 @@
 Shape Classification** — IEEE ITIS 2026, Paper #1571345367
 
 This material is referenced in the camera-ready paper but omitted from the manuscript itself
-due to the ITIS 2026 8-page maximum length.
+due to the ITIS 2026 6-page maximum length.
 
 ## Contents
 - `per_class_precision_recall_f1.csv` — complete per-class Precision, Recall, F1, and Support
